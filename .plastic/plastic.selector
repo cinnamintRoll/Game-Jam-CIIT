@@ -1,0 +1,4 @@
+repository "ciit-game-jam@gameJamCIIT@cloud"
+  path "/"
+    br "/main"
+    co "/main"

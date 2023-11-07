@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Resources/Dark MainMenu/Scene/MainMenu.unity
+    guid: b1b992497c86a0043ad91ad14b0c0a81
+  - enabled: 1
+    path: Assets/Scenes/Updated CIIT Game Jam.unity
+    guid: a5a4850aba85b84468b39a6c4cdf0afe
+  - enabled: 1
+    path: Assets/Scenes/Ending One.unity
+    guid: aa63e1dc82d0c8f4597ade590ab733c4
+  - enabled: 1
+    path: Assets/Scenes/Ending Two.unity
+    guid: 183b529ba26d3284e884da48f758b2b6
+  - enabled: 1
+    path: Assets/Scenes/Main Menu (Bad).unity
+    guid: ded83af3c5a1fa64a97c0a196d0faf52
   m_configObjects: {}
