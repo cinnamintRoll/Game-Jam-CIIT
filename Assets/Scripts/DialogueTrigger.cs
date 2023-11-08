@@ -12,7 +12,6 @@ public class DialogueTrigger : MonoBehaviour
     private bool displayDialogue = false;
     public float fadeInSpeed = 1.0f;
     public float fadeOutSpeed = 1.0f;
-
     public float lineDuration = 5.0f;
 
     void OnTriggerEnter(Collider collision)
